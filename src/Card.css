@@ -1,0 +1,37 @@
+.name-type {
+    border: none;
+    width: 100%;
+    margin: 4px;
+    background-color: #eeeeee;
+  }
+  
+  .tags-style {
+    border: none;
+    width: 100%;
+    margin: 4px;
+    background-color: #eeeeee;
+  }
+  
+  .tags-style:hover,
+  .tags-style:active,
+  .tags-style:focus {
+    border: none;
+    outline: none;
+  }
+  
+  .name-type:hover,
+  .name-type:active,
+  .name-type:focus {
+    border: none;
+    outline: none;
+  }
+  
+  .card {
+    background-color: #eeeeee;
+    padding: 10px;
+    border-radius: 6px;
+    box-shadow: 2px solid #eeeeee;
+    width: 50%;
+    font-weight: bold;
+  }
+  
